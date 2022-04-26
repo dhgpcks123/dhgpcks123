@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-스택
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgpcks123&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
