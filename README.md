@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello World, Welcome to my page 👋
 
 <!--
 **dhgpcks123/dhgpcks123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+스택
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgpcks123&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+
